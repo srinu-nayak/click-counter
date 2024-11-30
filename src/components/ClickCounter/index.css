@@ -1,0 +1,35 @@
+.click-counter-bg-container {
+  background-color: #f1f5f8;
+  background-size: cover;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.heading {
+  color: #2d3a35;
+  font-family: 'Roboto';
+  font-size: 35px;
+  font-weight: 600;
+}
+.paragraph {
+  color: #f1f5f8;
+  font-family: 'Roboto';
+  font-size: 17px;
+}
+.button {
+  background-color: #007bff;
+  border: 0px;
+  border-radius: 8px;
+  color: #ffffff;
+  padding: 8px;
+  cursor: pointer;
+  outline: none;
+}
+.count-element {
+  color: #c20a72;
+  font-family: 'Roboto';
+  font-size: 35px;
+  font-weight: 600;
+}
